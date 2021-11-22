@@ -1,4 +1,4 @@
-.sidenav {
+.navigation {
   height: 100%;
   width: 200px;
   position: fixed;
@@ -10,9 +10,14 @@
   font-family: georgia, sans-serif;
 }
 
-.sidenav a{
+.navigation a {
   color: white;
   padding: 16px;
   text-decoration: none;
   display: block;
+}
+
+.navigation a:hover {
+  color: black;
+  background-color: #d7d7e0;
 }
