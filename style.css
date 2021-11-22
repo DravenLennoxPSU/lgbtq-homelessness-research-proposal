@@ -21,3 +21,10 @@
   color: black;
   background-color: #d7d7e0;
 }
+
+.content {
+  margin-left: 200px;
+  padding-left: 20px;
+  background-color: #c1c1db;
+  font-family: verdana, sans-serif;
+}
