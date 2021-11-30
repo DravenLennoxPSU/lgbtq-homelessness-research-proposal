@@ -17,12 +17,12 @@ div.navigation a {
   display: block;
 }
 
-.navigation a:hover {
+div.navigation a:hover {
   color: black;
   background-color: #d7d7e0;
 }
 
-.content {
+div.content {
   margin-left: 200px;
   padding-left: 20px;
   background-color: #c1c1db;
