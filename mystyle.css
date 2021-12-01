@@ -45,7 +45,3 @@ ul {
   color: #36292f;
   list-style-type: none;
 }
-
-li:not(:last-child) {
-  margin-bottom: 8px;
-}
